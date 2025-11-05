@@ -5,7 +5,7 @@ from openai import OpenAI
 from employee_queries import *
 from agent_tools import tools,system_prompt
 
-client = OpenAI(api_key="sk-0aeabf32c19b4cfab6afe6d34e073b11", base_url="https://api.deepseek.com/v1")
+client = OpenAI(api_key="insert api key", base_url="https://api.deepseek.com/v1")
 
 DB_PATH = "database.sqlite"
 system_prompt = system_prompt
