@@ -1,7 +1,7 @@
-# Pantik-AI AGENT-example
+# CODE USED IN MY LECTURE ON HOW TO CREATE AN AI AGENT
 
 
-AGI AGENT works by creating a good schema for the llm which description, function, arguments etc
+AI AGENT works by creating a good schema for the llm which description, function, arguments etc
 
 the way this script works is it initially classifies the users questions based on choices provided. in this example we have ( employees, departments, employee_and_departments, other)
 
