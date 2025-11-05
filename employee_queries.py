@@ -2,6 +2,8 @@ import sqlite3
 
 
 def questions_company(employee_name):
+    """Finds all employees with the specified by name ."""
+
     conn = sqlite3.connect('database.sqlite')
     cursor = conn.cursor()
 
