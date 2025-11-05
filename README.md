@@ -23,7 +23,9 @@ EXTRACT JSON SCHEMA FROM LLM MESSAGE GUIDE: https://api-docs.deepseek.com/guides
 # How to use tools:
 
 I then created tools schema for all the python functions that i have written which can be found in the agent_tools.py file.
-TOOLS GUIDE : https://api-docs.deepseek.com/guides/function_calling
+TOOLS GUIDE : https://api-docs.deepseek.com/guides/function_calling OR https://platform.openai.com/docs/guides/tools?lang=python&tool-type=function-calling
+
+The OPENAI is better and the DEEPSEEK ONE CAUSED US ERRORS. 
 
 
 
